@@ -3,9 +3,12 @@
 # pc管理系统代码展示:
 
 UI:
+
 ![](https://raw.githubusercontent.com/Josin22/Demo-Code
 /master/images/pc1.png)
+
 Code:
+
 ```
 import React from 'react';
 import { connect } from 'dva';
@@ -159,9 +162,12 @@ export default connect(({ staffs, loading }) => ({ staffs, loading }))(Form.crea
 # 微信小程序代码展示:
 
 UI:
+
 ![](https://raw.githubusercontent.com/Josin22/Demo-Code
 /master/images/wx1.png)
+
 Code:
+
 ```
 <template lang="wxml">
   <view class="page" >
@@ -352,9 +358,12 @@ Code:
 # H5项目代码展示:
 
 UI:
+
 ![](https://raw.githubusercontent.com/Josin22/Demo-Code
 /master/images/h5.png)
+
 Code:
+
 ```
 import React from 'react'
 import Metrics from "../../utils/Metrics";
@@ -950,6 +959,7 @@ export default connect()(YDBIntegralView)
 ```
 
 # iOS App 代码展示:
+
 [预加载分页demo演示](http://qiaotongxin.cc/2017/08/06/20170807/)
 
 # RN App 代码展示:
