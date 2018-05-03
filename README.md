@@ -4,8 +4,7 @@
 
 UI:
 
-![](https://raw.githubusercontent.com/Josin22/Demo-Code
-/master/images/pc1.png)
+![](https://github.com/Josin22/Demo-Code/blob/master/images/pc1.png)
 
 Code:
 
@@ -163,8 +162,7 @@ export default connect(({ staffs, loading }) => ({ staffs, loading }))(Form.crea
 
 UI:
 
-![](https://raw.githubusercontent.com/Josin22/Demo-Code
-/master/images/wx1.png)
+![](https://github.com/Josin22/Demo-Code/blob/master/images/wx1.png)
 
 Code:
 
@@ -359,8 +357,7 @@ Code:
 
 UI:
 
-![](https://raw.githubusercontent.com/Josin22/Demo-Code
-/master/images/h5.png)
+![image](https://github.com/Josin22/Demo-Code/blob/master/images/h5.png)
 
 Code:
 
